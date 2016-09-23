@@ -1,0 +1,11 @@
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\bin\Debug\ODataMusicServer.exe.config
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\bin\Debug\ODataMusicServer.exe
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\bin\Debug\ODataMusicServer.pdb
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\bin\Debug\Apache.Ignite.Core.dll
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\bin\Debug\Apache.Ignite.Linq.dll
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\bin\Debug\Remotion.Linq.dll
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\bin\Debug\Apache.Ignite.Core.xml
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\bin\Debug\Remotion.Linq.xml
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\obj\Debug\ODataMusicServer.csprojResolveAssemblyReference.cache
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\obj\Debug\ODataMusicServer.exe
+C:\Data\Professional\dotnet\workspace\MyIgnite\ODataMusicServer\obj\Debug\ODataMusicServer.pdb
